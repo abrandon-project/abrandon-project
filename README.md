@@ -56,8 +56,9 @@ I'm passionate about blending numbers, insights, and creativity to tell meaningf
 ## Thank you for visiting my profile! Let's connect and build amazing things together! 🌟
 
 ## Get in Touch 📬
-<p align="left"> <a href="mailto:your.andkbrand@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://[LinkedIn](https://www.linkedin.com/in/andrea-brandon-love2learn/)"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://yourportfolio.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" /> </a> </p>
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.andkbrand@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-brandon-love2learn/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://yourportfolio.com)
 
 💬 Random Dev Quote
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /> </p>
@@ -65,4 +66,3 @@ I'm passionate about blending numbers, insights, and creativity to tell meaningf
 
 🌟 Thank you [Alyson La](https://www.linkedin.com/in/alysonla/) and [Kelsey Taylor](https://www.linkedin.com/in/kelsey-ann/) for mentoring me through this!
 
-<p align="center"> 👀 Visitor Counter</p>  <p align="center"> <img src="https://komarev.com/ghpvc/?username=YourUsername&style=flat-square&color=blue" alt="Profile Views" /> </p>
