@@ -6,7 +6,7 @@
 </p>
 
 ## Welcome to my GitHub profile!
-I'm currently a construction accountant diving into the exciting world of **Data Analytics and Dashboarding**. I'm broadening my skills through **Tech-Moms' Winter 2024 Data Analytics course**, where I'm studying all things **Analytics and AI Foundations**.
+I'm currently a construction accountant diving into the exciting world of **Data Analytics and Dashboarding**. I'm broadening my skills through **Tech-Moms' Winter 2025 Data Analytics course**, where I'm studying all things **Analytics and AI Foundations**.
 I'm passionate about blending numbers, insights, and creativity to tell meaningful data stories!
 
  
